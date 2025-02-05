@@ -1,7 +1,6 @@
 # Expense Trakcer
 Can review income and expenses
 
-![image](https://github.com/user-attachments/assets/3ab962e0-4856-456d-9a6f-dd8942aa5cf8)
+![image](https://github.com/user-attachments/assets/fbd1da8f-1ac1-44f3-927b-5b60d0dac7e9)
 
-
-https://github.com/user-attachments/assets/a3c6732e-c776-4312-a3f5-e52de5fa237e
+Uploading 2025-02-05 19-18-40 - Trim.mp4…
